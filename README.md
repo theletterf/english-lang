@@ -44,7 +44,7 @@ I took the one less traveled by,
 And that has made all the difference.
 ```
 
-English use whitespace and commas to delimit words, relying heavily on punctuation. Statements can end with a period or, less frequently, with a semicolon. Blocks are usually separated by two or more line breaks. Correct statements are always written in sentence case.
+English uses whitespace and commas to delimit words, relying heavily on punctuation. Statements can end with a period or, less frequently, with a semicolon. Blocks are usually separated by two or more line breaks. Correct statements are always written in sentence case.
 
 ### Operators
 
