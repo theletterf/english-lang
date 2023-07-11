@@ -10,7 +10,7 @@ English has been designed over the course of fourteen centuries. While no unifie
 - Resilience: English programs can execute on organic hardware despite severe syntax errors.
 - Polymorphism: English evolves over time without having to refactor existing codebases.
 
-English's stability makes it ideal for long-term projects where data integrity is more important than precision: The last breaking change in the specifications happened five centuries ago and there are no plans for further major releases.
+English's stability makes it ideal for long-term projects where data integrity is more important than precision: The last breaking change in the specifications happened five centuries ago and there are no plans for further major releases. English's mantra is "there's more than one way to say it".
 
 The English community is vibrant, with more than 150 distributions available. For a complete list of forks see [List of dialects](https://en.wikipedia.org/wiki/List_of_dialects_of_English).
  
@@ -68,14 +68,26 @@ Code comments are added using parentheses or round brackets. Unlike other progra
 
 English operators can be overloaded, although this is not recommended by the ENG23 committee.
 
+### Statements and control flow
+
+English statements are free-form and its execution depends on the interpreter's training, as well as word order. Conditional execution and exception handling also depend on the mood and tense of the keywords, as well as resources available.
+
 ### Keywords
 
 English does not have reserved words, relying instead on a set of 470,000 keywords that can be used interchangeably and even repeated to accelerate memory allocation. The training process results in scores that make the usage of certain keywords less likely. Keywords that score higher in the profanity dimension might cause the system to panic.
 
+## Data structures
+
+English only has two data structures, Lists and Raw. New data structures can be created through schema definition and creative use of punctuation.
+
 ## Typing
 
-English uses context-sensitive and duck typing. The only base types are `strings` and p numbers`, with no size limit. Buffer overflows are typically handled by the interpreter, which performs just-in-time (JIT) type casting and guessing. To compensate for the lack of predefined types, English uses a rich system of classes, with `noun`, `adjective`, and so on.
+English uses context-sensitive and duck typing. The only base types are `strings` and `numbers`, with no size limit. Buffer overflows are typically handled by the interpreter, which performs just-in-time (JIT) type casting and guessing. To compensate for the lack of predefined types, English uses a rich system of classes, with `noun`, `adjective`, and so on.
 
 ## Tooling
 
 Currently, the only compiler available is Wernicke. It requires a temporal lobe trained in social settings for at least three to four years, though better results can be achieved with training runs in excess of 30 years.
+
+Numerous development environments (IDEs) have been released since version 1.0. The most common editors for English are Word and Docs, although programs can still be written in WordPerfect, Vi, and emacs. English is unique in that it can be coded on almost any medium capable of supporting scratches and marks, such as paper, stone, or clay.
+
+There are millions of English libraries available. You can look for the closest in Google Maps.
