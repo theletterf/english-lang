@@ -10,9 +10,9 @@ English has been designed over the course of fourteen centuries. While no standa
 - Resilience: English programs can execute on organic hardware despite severe syntax errors.
 - Polymorphism: English evolves over time without having to refactor existing codebases.
 
-English's stability makes it ideal for long-term projects where data integrity is more important than precision: The last breaking change in the specifications happened five centuries ago and there are no plans for further major releases. English's mantra is "there's more than one way to say it".
+English's stability makes it ideal for long-term projects where data integrity is more important than precision: The last breaking change in the specifications happened five centuries ago and there are no plans for further major releases.
 
-The English community is vibrant, with more than 150 distributions available. For a complete list of forks see [List of dialects](https://en.wikipedia.org/wiki/List_of_dialects_of_English).
+English's mantra is "there's more than one way to say it".
  
 ## Syntax
 
@@ -91,3 +91,7 @@ Currently, the only compiler available is Wernicke. It requires a temporal lobe 
 Numerous development environments (IDEs) have been released since version 1.0. The most common editors for English are Word and Docs, although programs can still be written in WordPerfect, Vi, and emacs. English is unique in that it can be coded on almost any medium capable of supporting scratches and marks, such as paper, stone, or clay.
 
 There are millions of English libraries available. You can look for the closest in Google Maps.
+
+## Community
+
+The English community is vibrant, with more than 150 distributions available. For a complete list of forks see [List of dialects](https://en.wikipedia.org/wiki/List_of_dialects_of_English).
