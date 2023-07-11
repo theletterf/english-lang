@@ -87,6 +87,10 @@ English only has two data structures, Lists and Raw. New data structures can be 
 
 English uses context-sensitive and duck typing. The only base types are `strings` and `numbers`, with no size limit. Buffer overflows are typically handled by the interpreter, which performs just-in-time (JIT) type casting and guessing. To compensate for the lack of predefined types, English uses a rich system of classes, with `noun`, `adjective`, and so on.
 
+## Documentation
+
+English programs are self-documenting and implement literate programming.
+
 ## Tooling
 
 Currently, the only compiler available is Wernicke. It requires a temporal lobe trained in social settings for at least three to four years, though better results can be achieved with training runs in excess of 30 years.
