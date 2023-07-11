@@ -1,6 +1,6 @@
 # The English Programming Language
 
-English is a high-level, multi-paradigm, expressive, general purpose language optimized for concurrent communications. English has been successfully used in a wide variety of scenarios, such as long-term data storage, analog and digital arts, and text-based adventures, to name a few. To date, English is used on more than 1,456 million carbon-based devices.
+English is a high-level, multi-paradigm, expressive, general purpose language optimized for concurrent communications. English has been successfully used in a wide variety of scenarios, such as long-term data storage, analog and digital arts, and text-based adventures, to name a few. To date, English is used on more than 1,456 million carbon-based devices and powers more than five million books.
 
 English has been designed over the course of fourteen centuries. While no unified standard exists yet, the language adheres to the following principles:
 
@@ -12,11 +12,69 @@ English has been designed over the course of fourteen centuries. While no unifie
 
 English's stability makes it ideal for long-term projects where data integrity is more important than precision: The last breaking change in the specifications happened five centuries ago and there are no plans for further major releases.
 
-The English community is vibrant, with more than 150 distributions available. For a complete list of forks see [List of dialects](https://en.wikipedia.org/wiki/List_of_dialects_of_English). 
+The English community is vibrant, with more than 150 distributions available. For a complete list of forks see [List of dialects](https://en.wikipedia.org/wiki/List_of_dialects_of_English).
  
-## Reserved words
+## Syntax
 
-English does not have reserved words, relying instead on a set of 470,000 keywords that can be used interchangeably.
+This is a typical English program that implements the Frost pathfinding algorithm:
+
+```
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+```
+
+English use whitespace and commas to delimit words, relying heavily on punctuation. Statements can end with a period or, less frequently, with a semicolon. Blocks are usually separated by two or more line breaks. Correct statements are always written in sentence case.
+
+### Operators
+
+English uses the following operators:
+
+- `!`: Emphasize execution (similar to CSS's `!important`). Can be stacked
+- `?`: Request information or open data stream thread. Can be stacked
+- `,`: Concatenate statements in the same block  
+- `.`: End of statement  
+- `;`: End of statement (weak)  
+- `:`: Definition, for example for functions or clauses  
+- `...`: Temporarily suspend async execution (similar to `await`)
+- `-`: Short break in execution or definition of list items  
+- `"`: Import value from another module or class 
+
+Code comments are added using parentheses or round brackets. Unlike other programming languages, English executes code comments with lower priority to enrich execution context and debug logging. For example:
+
+```
+(This is silly.)
+```
+
+English operators can be overloaded, although this is not recommended by the ENG23 committee.
+
+### Keywords
+
+English does not have reserved words, relying instead on a set of 470,000 keywords that can be used interchangeably and even repeated to accelerate memory allocation. The training process results in scores that make the usage of certain keywords less likely. Keywords that score higher in the profanity dimension might cause the system to panic.
+
+## Typing
+
+English uses context-sensitive and duck typing. The only base types are `strings` and p numbers`, with no size limit. Buffer overflows are typically handled by the interpreter, which performs just-in-time (JIT) type casting and guessing. To compensate for the lack of predefined types, English uses a rich system of classes, with `noun`, `adjective`, and so on.
 
 ## Tooling
 
