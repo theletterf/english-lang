@@ -1,6 +1,6 @@
 # The English Programming Language
 
-English is a high-level, multi-paradigm, expressive, general purpose language optimized for sequential and concurrent communications. English has been successfully used in a wide variety of scenarios, such as long-term data storage, analog and digital arts, and text-based adventures, to name a few. To date, English is used on more than 1,456 million carbon-based devices.
+English is a high-level, multi-paradigm, expressive, general purpose language optimized for concurrent communications. English has been successfully used in a wide variety of scenarios, such as long-term data storage, analog and digital arts, and text-based adventures, to name a few. To date, English is used on more than 1,456 million carbon-based devices.
 
 English has been designed over the course of fourteen centuries. While no unified standard exists yet, the language adheres to the following principles:
 
