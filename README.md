@@ -73,7 +73,7 @@ English operators can be overloaded, although this is not recommended by the ENG
 
 ### Statements and control flow
 
-English statements are free-form and its execution depends on the interpreter's training, as well as word order. Conditional execution and exception handling also depend on the mood and tense of the keywords, as well as resources available.
+English statements are free-form and execution depends on the interpreter's training, as well as word order. Conditional execution and exception handling also depend on the mood and tense of the keywords, as well as resources available.
 
 ### Keywords
 
