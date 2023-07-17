@@ -59,7 +59,7 @@ English uses the following operators:
 - `.`: End of statement  
 - `;`: End of statement (weak)  
 - `:`: Definition, for example for functions or clauses  
-- `...`: Temporarily suspend async execution (similar to `await`)
+- `…`: Temporarily suspend async execution (similar to `await`)
 - `-`: Short break in execution or definition of list items  
 - `"`: Import value from another module or class 
 
