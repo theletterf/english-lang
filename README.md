@@ -1,6 +1,6 @@
 # The English Programming Language
 
-![Static Badge](https://img.shields.io/badge/version-4.2023.7-blue) ![Static Badge](https://img.shields.io/badge/status-stable-green) ![Static Badge](https://img.shields.io/badge/forks-150-red) ![GitHub Repo stars](https://img.shields.io/github/stars/theletterf/english-lang) ![Twitter URL](https://img.shields.io/twitter/https://twitter.com/remoquete)
+![Static Badge](https://img.shields.io/badge/version-4.2023.7-blue) ![Static Badge](https://img.shields.io/badge/status-stable-green) ![Static Badge](https://img.shields.io/badge/forks-150-red) ![GitHub Repo stars](https://img.shields.io/github/stars/theletterf/english-lang) ![Twitter URL](https://img.shields.io/twitter/twitter.com/remoquete)
 
 
 
