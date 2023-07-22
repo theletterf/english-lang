@@ -1,6 +1,6 @@
 # The English Programming Language
 
-![Static Badge](https://img.shields.io/badge/version-4.2023.7-blue) ![Static Badge](https://img.shields.io/badge/status-stable-green) ![Static Badge](https://img.shields.io/badge/forks-150-red)
+![Static Badge](https://img.shields.io/badge/version-4.2023.7-blue) ![Static Badge](https://img.shields.io/badge/status-stable-green) ![Static Badge](https://img.shields.io/badge/forks-150-red) ![GitHub Repo stars](https://img.shields.io/github/stars/theletterf/english-lang) [![Twitter Follow](https://img.shields.io/badge/follow-remoquete?logo=twitter&style=social)](https://twitter.com/remoquete)
 
 
 English is a high-level, multi-paradigm, expressive, general purpose language optimized for concurrent communications. English has been successfully used in a wide variety of scenarios, such as long-term data storage, analog and digital arts, and text-based adventures, to name a few. To date, English is used on more than 1,456 million carbon-based devices, and powers more than five million books.
@@ -95,7 +95,7 @@ However comments of the footnote class, and related external reference classes, 
 
 ### Statements and control flow
 
-English statements are free-form and its execution depends on the interpreter's training, as well as word order. Conditional execution and exception handling also depend on the mood and tense of the keywords, as well as resources available.
+English statements are free-form and execution depends on the interpreter's training, as well as word order. Conditional execution and exception handling also depend on the mood and tense of the keywords, as well as resources available.
 
 ### Keywords
 
