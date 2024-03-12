@@ -99,6 +99,18 @@ Numerous development environments (IDEs) have been released since version 1.0. T
 
 There are millions of English libraries available. You can look for the closest in Google Maps.
 
+## Codecs
+
+English can be programmed in several codecs, allowing the programmer to program the way they want. We present an non-exhaustive list of common codecs.
+
+- American English: "That's dope bro."
+- British English: "In'nit a bo'oh o wo'ah?"
+- Australian English: "Yu wot mate!?"
+- Singlish: "Eh, I'm hungry, let go makan."
+- Chinglish-Canto: "Aih, 又系 A-minus."
+
+Codecs are also polymorphic and evolve over time.
+
 ## Community
 
 The English community is vibrant, with more than 150 distributions available. For a complete list of forks see [List of dialects](https://en.wikipedia.org/wiki/List_of_dialects_of_English).
