@@ -107,9 +107,9 @@ Here, we present an non-exhaustive list of common codecs.
 
 - American English: "That's dope bro."
 - British English: "In'nit a bo'oh o wo'ah?"
-- Australian English: "Yu wot mate!?"
-- Singlish: "Eh, I'm hungry, let go makan."
-- Chinglish (Canto): "Aih, 又系 A-minus."
+- Australian English: "Yu wot mate!?" (mate == bro)
+- Singlish: "Eh, I'm hungry, let go makan." (makan == eat)
+- Chinglish (Canto): "Aih, 又系 A-min." (A-min == A-minus)
 
 Codecs are also polymorphic and evolve over time.
 
