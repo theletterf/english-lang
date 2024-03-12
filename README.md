@@ -101,13 +101,15 @@ There are millions of English libraries available. You can look for the closest 
 
 ## Codecs
 
-English can be programmed in several codecs, allowing the programmer to program the way they want. We present an non-exhaustive list of common codecs.
+English can be programmed in several codecs, allowing the programmer to program the way they want. Appreciating different codecs is a small step in bridging the world of programmers, allowing individuals to achieve common ground and effective communication.
+
+Here, we present an non-exhaustive list of common codecs.
 
 - American English: "That's dope bro."
 - British English: "In'nit a bo'oh o wo'ah?"
 - Australian English: "Yu wot mate!?"
 - Singlish: "Eh, I'm hungry, let go makan."
-- Chinglish-Canto: "Aih, 又系 A-minus."
+- Chinglish (Canto): "Aih, 又系 A-minus."
 
 Codecs are also polymorphic and evolve over time.
 
