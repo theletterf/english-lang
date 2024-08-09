@@ -47,7 +47,17 @@ I took the one less traveled by,
 And that has made all the difference.
 ```
 
-English uses whitespace and commas to delimit words, relying heavily on punctuation. Statements can end with a period or, less frequently, with a semicolon. Blocks are usually separated by two or more line breaks. Correct statements are always written in sentence case.
+- English uses whitespace and commas to delimit words, relying heavily on punctuation. 
+- Correct statements within a block are written in sentence case, except:
+    - Independent declaratory statements of class "title" or class "headline" may be _all upper case_, or _title case_
+    - Title case is similar to pascal case, but with whitespace between each keyword.
+- Statements can end with a period or, less frequently, with a semicolon.
+    - Statements of the list, title, or headline classes can end with a line break.
+- Blocks using hard-wrap are separated by two or more line breaks. 
+- Blocks using soft-wrap are separated by a single line break.
+    - Most modern English IDEs default to soft wrap, however hard wrap is a requirement for some legacy devices such as the one called "typewriter" and the one known colloquially as "pen & paper".
+- Line numbering is still used in some paradigms such as legal.
+
 
 ### Operators
 
@@ -55,21 +65,33 @@ English uses the following operators:
 
 - `!`: Emphasize execution (similar to CSS's `!important`). Can be stacked
 - `?`: Request information or open data stream thread. Can be stacked
-- `,`: Concatenate statements in the same block  
+    - `?!` The request and emphasize operators can be stacked together. See _overloading_
+- `,`: Concatenate statements in the same block. See keywords _and or_
 - `.`: End of statement  
-- `;`: End of statement (weak)  
+- `;`: End of statement (weak, can not end a block)
+- `\n`: End of block, immediately after the `.` (hard-wrap IDEs require `\n\n`)
 - `:`: Definition, for example for functions or clauses  
 - `...`: Temporarily suspend async execution (similar to `await`)
-- `-`: Short break in execution or definition of list items  
-- `"`: Import value from another module or class 
+- `—`: Short break in execution or definition of list items
+- `-`: Combine keywords into a group or split a keyword across a newline
+- `&`: Combine keywords or sub-statements into a non-exclusive set
+- `/`: Combine keywords maintaining independence and/or exclusivity
+- `†`: Reference to a footnote class comment and comment identifier
+- `(`: Open inline code comment<sup>†</sup>, close with `)`
+- `"`: Import value from another module or class
+- `'`: Nested imported value inside another import
+- `¶`: Indicate block start in some paradigms (arcane)
+- `§`: Indicate section break in some paradigms (such as legal)
 
-Code comments are added using parentheses or round brackets. Unlike other programming languages, English executes code comments with lower priority to enrich execution context and debug logging. For example:
+
+<sup>†</sup>Code comments are added using parentheses or round brackets. Unlike other programming languages, English executes code comments with lower priority to enrich execution context and debug logging. For example:
 
 ```
 (This is silly.)
 ```
+However comments of the footnote class, and related external reference classes, are only executed optionally as determined at runtime, therefore the main code must not be dependent on footnote class or external reference class objects.
 
-English operators can be overloaded, although this is not recommended by the ENG23 committee.
+**Overloading:** English operators can be overloaded, although this is not recommended by the ENG23 committee.
 
 ### Statements and control flow
 
