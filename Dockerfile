@@ -1,0 +1,6 @@
+FROM busybox
+LABEL MAINTAINER=somebody
+
+ENV DIALECT="US"
+
+ENTRYPOINT ["echo"]
